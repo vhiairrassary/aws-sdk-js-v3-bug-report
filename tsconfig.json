@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "lib": ["es2021", "dom"],
+    "module": "commonjs",
+    "target": "es2021",
+
+    "noFallthroughCasesInSwitch": true,
+    "noUnusedLocals": true,
+    "sourceMap": true,
+    "strict": true
+  }
+}
