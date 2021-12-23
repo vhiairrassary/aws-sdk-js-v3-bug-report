@@ -1,5 +1,7 @@
 /.idea
 
+/src/*.js
+
 .pnp.*
 .yarn/*
 !.yarn/patches
